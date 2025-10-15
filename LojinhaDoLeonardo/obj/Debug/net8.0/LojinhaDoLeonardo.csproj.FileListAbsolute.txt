@@ -1,0 +1,14 @@
+C:\Users\Leonardo\NordLocker_8056594\Pessoal\Cursos\C#\LojinhaDoLeonardo\LojinhaDoLeonardo\bin\Debug\net8.0\LojinhaDoLeonardo.exe
+C:\Users\Leonardo\NordLocker_8056594\Pessoal\Cursos\C#\LojinhaDoLeonardo\LojinhaDoLeonardo\bin\Debug\net8.0\LojinhaDoLeonardo.deps.json
+C:\Users\Leonardo\NordLocker_8056594\Pessoal\Cursos\C#\LojinhaDoLeonardo\LojinhaDoLeonardo\bin\Debug\net8.0\LojinhaDoLeonardo.runtimeconfig.json
+C:\Users\Leonardo\NordLocker_8056594\Pessoal\Cursos\C#\LojinhaDoLeonardo\LojinhaDoLeonardo\bin\Debug\net8.0\LojinhaDoLeonardo.dll
+C:\Users\Leonardo\NordLocker_8056594\Pessoal\Cursos\C#\LojinhaDoLeonardo\LojinhaDoLeonardo\bin\Debug\net8.0\LojinhaDoLeonardo.pdb
+C:\Users\Leonardo\NordLocker_8056594\Pessoal\Cursos\C#\LojinhaDoLeonardo\LojinhaDoLeonardo\obj\Debug\net8.0\LojinhaDoLeonardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\NordLocker_8056594\Pessoal\Cursos\C#\LojinhaDoLeonardo\LojinhaDoLeonardo\obj\Debug\net8.0\LojinhaDoLeonardo.AssemblyInfoInputs.cache
+C:\Users\Leonardo\NordLocker_8056594\Pessoal\Cursos\C#\LojinhaDoLeonardo\LojinhaDoLeonardo\obj\Debug\net8.0\LojinhaDoLeonardo.AssemblyInfo.cs
+C:\Users\Leonardo\NordLocker_8056594\Pessoal\Cursos\C#\LojinhaDoLeonardo\LojinhaDoLeonardo\obj\Debug\net8.0\LojinhaDoLeonardo.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\NordLocker_8056594\Pessoal\Cursos\C#\LojinhaDoLeonardo\LojinhaDoLeonardo\obj\Debug\net8.0\LojinhaDoLeonardo.dll
+C:\Users\Leonardo\NordLocker_8056594\Pessoal\Cursos\C#\LojinhaDoLeonardo\LojinhaDoLeonardo\obj\Debug\net8.0\refint\LojinhaDoLeonardo.dll
+C:\Users\Leonardo\NordLocker_8056594\Pessoal\Cursos\C#\LojinhaDoLeonardo\LojinhaDoLeonardo\obj\Debug\net8.0\LojinhaDoLeonardo.pdb
+C:\Users\Leonardo\NordLocker_8056594\Pessoal\Cursos\C#\LojinhaDoLeonardo\LojinhaDoLeonardo\obj\Debug\net8.0\LojinhaDoLeonardo.genruntimeconfig.cache
+C:\Users\Leonardo\NordLocker_8056594\Pessoal\Cursos\C#\LojinhaDoLeonardo\LojinhaDoLeonardo\obj\Debug\net8.0\ref\LojinhaDoLeonardo.dll
